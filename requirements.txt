@@ -1,0 +1,15 @@
+langchain[groq]
+langgraph
+langchain[anthropic]
+langchain_mcp_adapters
+python-dotenv
+streamlit
+google
+google.genai
+langchain-chroma
+langchain-community
+langchain_google_genai
+
+
+
+#google-generativeai
